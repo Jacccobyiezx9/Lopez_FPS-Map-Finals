@@ -1,0 +1,12 @@
+# Blender MTL File: 'Sparta_men_001.blend'
+# Material Count: 1
+
+newmtl map_helmet_2_001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
